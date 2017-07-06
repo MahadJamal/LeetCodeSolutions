@@ -14,8 +14,7 @@ the contiguous subarray [4,-1,2,1] has the largest sum = 6.
 ### Python
 
 #### This problem can be solved in one line code in Python but following is divide and conquer implementation of this Problem: 
-** (Please Note that Divide and Conquer is not the best choice for this problem) **
-**__ This Solution will only work if their exist a majority element__**
+
 
 ```python
 class Solution(object):
